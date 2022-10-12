@@ -3,6 +3,7 @@
 ## Description
 
 Timed and scored full stack coding quiz for UNC bootcamp.    
+Link to deployed application: https://zellis117.github.io/Full-Stack-Quiz-UNC---Zac-Ellis/
 
 
 ## Installation
@@ -24,7 +25,7 @@ Please refer to the LICENSE in the repo.
 
 ---
 ## Screenshots
-Useage
+Quiz Page
 ![Alt Screenshot of application running](./Images/ScreenShot1.jpg)
-Result
+High Scores Page
 ![Alt Screenshot of application result](./Images/ScreenShot2.jpg)

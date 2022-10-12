@@ -1,0 +1,70 @@
+/* Applied to all content */
+body{
+    background-color: gray;
+    text-align: center;
+}
+
+button{
+    width: 200px;
+    height: 60px;
+    color: white;
+    background-color: rgb(69, 69, 255);
+    border-radius: 20px;
+}
+
+button:hover{
+    color: blue;
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    padding: 50px;
+    font-size: 50px;
+}
+
+ul{
+    list-style: none;
+    padding: 0px;
+}
+
+/* Top Navigation and timer */
+header{
+    display: inline;
+    padding: 40px;
+    font-size: 20px;
+}
+
+#time{
+    float: right;
+}
+
+a{
+    float: left;
+}
+
+.score{
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Starting Screen */
+
+/* Classes for different questions */
+.quiz h1{
+    font-size: 35px;
+    padding-top: 68px;
+    padding-bottom: 35px;
+}
+
+.quiz button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+/* High scores page */
+textarea{
+    font-size: 150%;
+}
